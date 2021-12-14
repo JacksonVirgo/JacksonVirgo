@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning how to create full-stack web applications with Node and React.
 - 📫 You can contact me through discord at NashedPotato#2919
 
-I'm currently working on a tool I'm naming Mafia Engine, the repository can be found [here](https://github.com/JacksonVirgo/Mafia-Engine) and the hosted project (not fully up to date) can be found [here](http://mafiaengine.com)
+My current project I am working on is a tool I am calling Mafia Engine. It's split between multiple sub-projects but the core is to aid in the playing and hosting of online mafia/werewolf games. It currently has a forum scraper and discord bot port.
