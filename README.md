@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @JacksonVirgo
-- 👀 I’m interested in developing websites and tools to help in the tedious aspects of my own life and perhaps many more.
-- 🌱 I’m currently learning how to create full-stack web applications with Node and React.
-- 📫 You can contact me through discord at NashedPotato#2919
+[![Discord](https://img.shields.io/discord/648663810772697089.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/jUPsvsXQCa)
 
-My current project I am working on is a tool I am calling Mafia Engine. It's split between multiple sub-projects but the core is to aid in the playing and hosting of online mafia/werewolf games. It currently has a forum scraper and discord bot port.
+Technician / Developer for Discord Mafia
+
+I build things that make life less tedious.
+
+Catch me on Discord at Melancholic#8080
