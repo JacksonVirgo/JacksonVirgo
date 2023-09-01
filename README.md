@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/discord/648663810772697089.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/jUPsvsXQCa)
+[![Discord](https://img.shields.io/discord/648663810772697089.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/social-deduction)
 
 Technician / Developer for Discord Mafia
 
