@@ -1,5 +1,4 @@
-G'day, I'm Jack
-
+### G'day, I'm Jack
 I'm the developer for [Discord Mafia](https://discord.gg/social-deduction)!
 
 ## Focused Projects
