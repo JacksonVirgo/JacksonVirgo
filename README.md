@@ -2,6 +2,7 @@
 I'm the developer for [Discord Mafia](https://discord.gg/social-deduction)!
 
 ## Currently Working On
+- Github's "Game Off" Game Jam
 - Mafia Engine Rewrite
 
 ## Focused Projects
