@@ -1,9 +1,8 @@
 ### G'day, I'm Jack
-I'm the developer for [Discord Mafia](https://discord.gg/social-deduction)!
+Co-Owner and Lead Developer for [Discord Mafia](https://discord.gg/social-deduction)
 
 ## Currently Working On
-- Github's "Game Off" Game Jam
-- Mafia Engine Rewrite
+- Mafia Engine: Rust Rewrite
 
 ## Focused Projects
 - [Mafia Engine](https://github.com/JacksonVirgo/mafia-engine-2.0) - The dedicated discord bot for Discord Mafia; running, automating and helping all users play and host games of mafia (and more)
@@ -12,7 +11,3 @@ I'm the developer for [Discord Mafia](https://discord.gg/social-deduction)!
 
 ## Contact
 You can catch me on Discord at `._melancholic_.`
-
-
-### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonVirgo&show_icons=true&theme=radical)
