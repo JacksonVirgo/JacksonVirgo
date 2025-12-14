@@ -1,6 +1,6 @@
 ### G'day, I'm Jack
 - Co-Owner and Lead Developer at [Discord Mafia](https://discord.gg/social-deduction)
-- Technical Administrator at [MafiaScum](https://www.mafiascum.net)
+- System/Technical Administrator at [MafiaScum](https://www.mafiascum.net)
 
 ## Currently Working On
 - Mafia Engine: Rust Rewrite
